@@ -1,12 +1,8 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Kimminseong's%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kimminseong's%20Github!&fontSize=85" />	
 </div>
 <div align=center>
 
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
-</div>
-<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -64,8 +60,9 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimminseong777&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kimminseong777&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
