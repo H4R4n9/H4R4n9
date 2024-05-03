@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kimminseong's%20Github!&fontSize=85" />	
 </div>
 <div align=center>
-
+<div>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -58,17 +58,9 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimminseong777&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kimminseong777&show_icons=true">
 
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
-</div>
-<br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
