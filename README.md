@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=N3uRU's%20Github&fontSize=85" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=H4R4n9's%20Github&fontSize=85" />	
 </div>
 <div align=center>
 <div>
@@ -48,8 +48,8 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3uRU&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=N3uRU&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4R4n9&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=H4R4n9&show_icons=true">
 
 
 
