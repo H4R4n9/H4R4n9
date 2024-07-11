@@ -45,12 +45,6 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
-</div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4R4n9&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=H4R4n9&show_icons=true">
-
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
